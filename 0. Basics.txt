@@ -1,0 +1,20 @@
+#Java
+Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile
+
+
+#Java virtual machine(JVM)
+A Java virtual machine (JVM) is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode. The JVM is detailed by a specification that formally describes what is required in a JVM implementation
+
+
+#Java Runtime Environment(JRE)
+The Java Runtime Environment, or JRE, is a software layer that runs on top of a computer’s operating system software and provides the class libraries and other resources that a specific Java program needs to run.
+
+
+#Compiler
+In computing, a compiler is a computer program that translates computer code written in one programming language (the source language) into another language.
+Compiler is basically used to translate source code from a high-level programming language to a low-level programming language (e.g. assembly language, object code, or machine code) to create an executable program.
+
+
+#Variables
+In computer programming, a variable is an abstract storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value.
+These variables have to be assigned a data type so that it becomes a container for that type of data.
